@@ -1,0 +1,1 @@
+(window.webpackChunkaplicacao_1=window.webpackChunkaplicacao_1||[]).push([[192],{192:function(n,a,c){"use strict";c.r(a);var e=c(624),t=c.n(e);a.default=function(){return t().createElement("div",null,"User component")}}}]);

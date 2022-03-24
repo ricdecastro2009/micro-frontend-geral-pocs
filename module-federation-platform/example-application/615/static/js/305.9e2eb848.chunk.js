@@ -1,0 +1,1 @@
+(window.webpackChunkaplicacao_1=window.webpackChunkaplicacao_1||[]).push([[305],{305:function(e,n,t){"use strict";t.r(n);var a=t(624),c=t.n(a);n.default=function(){return c().createElement("div",null,"User Register component testes")}}}]);
