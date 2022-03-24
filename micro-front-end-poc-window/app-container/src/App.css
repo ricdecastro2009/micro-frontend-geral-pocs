@@ -1,0 +1,44 @@
+body{
+  padding: 0;
+  margin: 0;
+  background-color: #d5d5d5;
+}
+.banner {
+  background: rgb(78, 76, 76);
+  padding: 20px 15px;
+  text-align: center;
+}
+.banner-title {
+  color: white;
+  font-size: 24px;
+  float: left;
+  margin: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.content {
+  margin: auto;
+  width: 70%;
+  padding: 10px 0px;
+  background:  #f5f5da;
+  display: inline-block;
+}
+
+
+.nav-item{
+  display: inline-block;
+  margin: 0 20px;
+  padding: 5px;
+  border: 1px solid white;
+  text-decoration: none;
+  border-radius: 5px;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.nav-item:hover{
+  color: black;
+  border-color: black;
+  background-color: white;
+}
+
